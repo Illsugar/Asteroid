@@ -1,0 +1,36 @@
+C:\sources\gb\charp#2\sandbox\Asteroids\Asteroids\bin\Debug\Asteroids.exe.config
+C:\sources\gb\charp#2\sandbox\Asteroids\Asteroids\bin\Debug\Asteroids.exe
+C:\sources\gb\charp#2\sandbox\Asteroids\Asteroids\bin\Debug\Asteroids.pdb
+C:\sources\gb\charp#2\sandbox\Asteroids\Asteroids\obj\Debug\Asteroids.csprojAssemblyReference.cache
+C:\sources\gb\charp#2\sandbox\Asteroids\Asteroids\obj\Debug\Asteroids.Properties.Resources.resources
+C:\sources\gb\charp#2\sandbox\Asteroids\Asteroids\obj\Debug\Asteroids.csproj.GenerateResource.cache
+C:\sources\gb\charp#2\sandbox\Asteroids\Asteroids\obj\Debug\Asteroids.csproj.CoreCompileInputs.cache
+C:\sources\gb\charp#2\sandbox\Asteroids\Asteroids\obj\Debug\Asteroids.exe
+C:\sources\gb\charp#2\sandbox\Asteroids\Asteroids\obj\Debug\Asteroids.pdb
+C:\Users\Samylovskaya\Desktop\Asteroids\Asteroids\bin\Debug\Asteroids.exe.config
+C:\Users\Samylovskaya\Desktop\Asteroids\Asteroids\bin\Debug\Asteroids.exe
+C:\Users\Samylovskaya\Desktop\Asteroids\Asteroids\bin\Debug\Asteroids.pdb
+C:\Users\Samylovskaya\Desktop\Asteroids\Asteroids\obj\Debug\Asteroids.csprojAssemblyReference.cache
+C:\Users\Samylovskaya\Desktop\Asteroids\Asteroids\obj\Debug\Asteroids.Properties.Resources.resources
+C:\Users\Samylovskaya\Desktop\Asteroids\Asteroids\obj\Debug\Asteroids.csproj.GenerateResource.cache
+C:\Users\Samylovskaya\Desktop\Asteroids\Asteroids\obj\Debug\Asteroids.csproj.CoreCompileInputs.cache
+C:\Users\Samylovskaya\Desktop\Asteroids\Asteroids\obj\Debug\Asteroids.exe
+C:\Users\Samylovskaya\Desktop\Asteroids\Asteroids\obj\Debug\Asteroids.pdb
+C:\Users\irina\OneDrive\Рабочий стол\Asteroids\Asteroids\bin\Debug\Asteroids.exe.config
+C:\Users\irina\OneDrive\Рабочий стол\Asteroids\Asteroids\bin\Debug\Asteroids.exe
+C:\Users\irina\OneDrive\Рабочий стол\Asteroids\Asteroids\bin\Debug\Asteroids.pdb
+C:\Users\irina\OneDrive\Рабочий стол\Asteroids\Asteroids\obj\Debug\Asteroids.csprojAssemblyReference.cache
+C:\Users\irina\OneDrive\Рабочий стол\Asteroids\Asteroids\obj\Debug\Asteroids.Properties.Resources.resources
+C:\Users\irina\OneDrive\Рабочий стол\Asteroids\Asteroids\obj\Debug\Asteroids.csproj.GenerateResource.cache
+C:\Users\irina\OneDrive\Рабочий стол\Asteroids\Asteroids\obj\Debug\Asteroids.csproj.CoreCompileInputs.cache
+C:\Users\irina\OneDrive\Рабочий стол\Asteroids\Asteroids\obj\Debug\Asteroids.exe
+C:\Users\irina\OneDrive\Рабочий стол\Asteroids\Asteroids\obj\Debug\Asteroids.pdb
+D:\Asteroids\Asteroids\bin\Debug\Asteroids.exe.config
+D:\Asteroids\Asteroids\bin\Debug\Asteroids.exe
+D:\Asteroids\Asteroids\bin\Debug\Asteroids.pdb
+D:\Asteroids\Asteroids\obj\Debug\Asteroids.csprojAssemblyReference.cache
+D:\Asteroids\Asteroids\obj\Debug\Asteroids.Properties.Resources.resources
+D:\Asteroids\Asteroids\obj\Debug\Asteroids.csproj.GenerateResource.cache
+D:\Asteroids\Asteroids\obj\Debug\Asteroids.csproj.CoreCompileInputs.cache
+D:\Asteroids\Asteroids\obj\Debug\Asteroids.exe
+D:\Asteroids\Asteroids\obj\Debug\Asteroids.pdb
